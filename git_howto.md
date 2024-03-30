@@ -24,3 +24,9 @@ git log --oneline
 ```sh
 git check out
 ```
+
+Просмотр ветки:
+```sh
+git branch
+```
+
