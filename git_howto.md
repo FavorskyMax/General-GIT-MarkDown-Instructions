@@ -30,3 +30,16 @@ git check out
 git branch
 ```
 
+Создание новой векти:
+```sh
+git branch (name_branch)
+```
+
+Слияние ветки на которой сидим и ту, которую прописываем:
+```sh
+git merge (name_branch)
+```
+Удаление ветки:
+```sh
+git branch -d (name_branch)
+``` 
