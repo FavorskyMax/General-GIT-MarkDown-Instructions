@@ -39,11 +39,6 @@ git branch (name_branch)
 git checkout (name_branch)
 ```
 
-Перемещение по веткам:
-```sh
-git checkout (branch_name)
-```
-
 Слияние ветки на которой сидим и ту, которую прописываем:
 ```sh
 git merge (name_branch)
