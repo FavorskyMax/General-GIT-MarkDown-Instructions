@@ -34,6 +34,10 @@ git branch
 ```sh
 git branch (name_branch)
 ```
+Перемещение по веткам:
+```sh
+git checkout (name_branch)
+```
 
 Перемещение по веткам:
 ```sh
