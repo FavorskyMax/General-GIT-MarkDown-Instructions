@@ -58,4 +58,5 @@ git merge (name_branch)
 git branch -d (name_branch)
 ``` 
 
-end
+## End
+^_^
