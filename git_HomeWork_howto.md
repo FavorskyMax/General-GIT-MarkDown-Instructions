@@ -2,58 +2,59 @@
 
 Создания репозитория:
 ```sh
-
+git init
 ```
 Добавление файла в сохранение (пока не полностью | 1/2 save job):
 ```sh
-
+git add
 ```
 Добалвение коментария к сохранению (полное сохранение | 2/2 save job):
 ```sh
-
+git commit -m "Message"
 ```
 Просмотр наших сохранений (коммитов):
 ```sh
-
+git log
 ```
 Просмотр коммитов в виде графика:
 ``` sh
-
+git log --grapg
 ```
 
 Просмотр наших сохранений (коммитов) в укороченном варианте:
 ```sh
-
+git log --oneline
 ```
 Просмотр наших коммитов в укороченном варианте с графой веток:
 ```sh
-
+git log --oneline --graph
 ```
 
 Переключение между нашими сохранениями (коммитами):
 ```sh
-git
+git checkout
 ```
+
 Просмотр ветки:
 ```sh
-sgssgsg
+git branch
 ```
 
 Создание новой векти:
 ```sh
-sgsgsgsgsg
+git branch (name_branch)
 ```
 Перемещение по веткам:
 ```sh
-sgsgsgsgsg
+git checkout (name_branch)
 ```
 
 Слияние ветки на которой сидим и ту, которую прописываем:
 ```sh
-sssssgsgsgsg
+git merge (name_branch)
 ```
 Удаление ветки:
 ```sh
-git igigigiggig
+git branch -d (name_branch)
 ``` 
 
